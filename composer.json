@@ -1,0 +1,18 @@
+{
+    "name": "bethropolis/debug-doctor",
+    "description": "a simple php debuging package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bethropolis\\DebugDoctor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bethuel",
+            "email": "bethropolis@gmail.com"
+        }
+    ],
+    "require": {}
+}
